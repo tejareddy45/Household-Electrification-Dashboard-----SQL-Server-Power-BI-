@@ -17,7 +17,7 @@ To analyze U.S. housing data and electric vehicle market trends using Power BI a
 - <a href = https://github.com/tejareddy45/Household-Electrification-Dashboard-----SQL-Server-Power-BI-/blob/main/HV-mf%20dataset.csv>Dataset</a>
 
 ## SQL Queries 
-<img width="929" height="497" alt="Screenshot 2025-08-05 111318" src="https://github.com/user-attachments/assets/94c6e306-39ce-4112-a1a6-d0101cb5a1c0" />
+
 <img width="892" height="845" alt="Screenshot 2025-08-05 125803" src="https://github.com/user-attachments/assets/68ec951b-ade9-4067-be93-584cd04fac12" />
 <img width="887" height="823" alt="Screenshot 2025-08-05 125813" src="https://github.com/user-attachments/assets/c5de2aac-2cf3-43de-b2f5-0b09e5813062" />
 <img width="890" height="824" alt="Screenshot 2025-08-05 125823" src="https://github.com/user-attachments/assets/8ab0192c-805d-408b-915f-6c104be1e743" />
@@ -28,11 +28,12 @@ To analyze U.S. housing data and electric vehicle market trends using Power BI a
 <img width="890" height="644" alt="Screenshot 2025-08-05 125920" src="https://github.com/user-attachments/assets/f829329e-296a-48f6-a6c7-9c2325b48220" />
 
 ## Power BI Reports
+
 <img width="1165" height="652" alt="Screenshot 2025-08-05 105557" src="https://github.com/user-attachments/assets/dea5d93c-deb1-4d4a-b239-dab4e3af39fa" />
 <img width="1165" height="654" alt="Screenshot 2025-08-05 105622" src="https://github.com/user-attachments/assets/0528fb2e-c60d-4c2f-9a9a-cee9bded69b8" />
 <img width="1134" height="636" alt="Screenshot 2025-08-05 105635" src="https://github.com/user-attachments/assets/dec0875a-9fff-4049-81cf-d76df542d8ea" />
 
-## Main Insights from Analysis
+## Insights from Analysis
 #### From SQL (Housing Data):
 - National homeownership: X% (based on query #3).
 
