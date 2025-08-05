@@ -1,18 +1,17 @@
-# Electrification & Housing Insights Dashboard
+# U.S. Housing Insights Dashboard
 
 ## Projective Objective
-To analyze U.S. housing data and electric vehicle market trends using Power BI and SQL to uncover insights about housing occupancy, ownership patterns, and electrification progress.
-
+To analyze U.S. housing data — including ownership, occupancy, and housing unit distribution — using SQL for data extraction and Power BI for dynamic reporting.
 ## Key Outcomes
-- Developed a dynamic Power BI dashboard showcasing EV market dominance, range improvements, and regional patterns.
+- Executed 15+ SQL queries to extract, filter, and summarize regional and national housing data.
 
-- Wrote 15+ optimized SQL queries to analyze national vs regional housing occupancy, ownership, and housing gaps.
+- Developed a Power BI dashboard with 10+ visuals showing ownership rates, occupancy trends, and housing gaps.
 
-- Integrated SQL and Power BI to support data-driven insights and interactive storytelling.
+- Used ranking, CTEs, and calculations to compare 50+ U.S. regions.
 
-- Ranked regions based on homeownership rate, housing unit count, and gap metrics.
+- Delivered clear insights on homeownership distribution, housing shortages, and region-wise performance.
 
-- Identified top and bottom performing regions using calculated fields and advanced SQL techniques (CTEs, ranking, etc.).
+- Integrated SQL backend with Power BI frontend for a complete analytics solution.
 
 - <a href = https://github.com/tejareddy45/Household-Electrification-Dashboard-----SQL-Server-Power-BI-/blob/main/HV-mf%20dataset.csv>Dataset</a>
 
@@ -34,21 +33,14 @@ To analyze U.S. housing data and electric vehicle market trends using Power BI a
 <img width="1134" height="636" alt="Screenshot 2025-08-05 105635" src="https://github.com/user-attachments/assets/dec0875a-9fff-4049-81cf-d76df542d8ea" />
 
 ## Insights from Analysis
-#### From SQL (Housing Data):
-- National homeownership: X% (based on query #3).
 
-- Top regions have >75% homeownership, while others fall below 50%.
+- Some regions have homeownership rates >75%, while others fall below 50%, showing wide disparity.
 
-- Significant housing gaps identified in multiple regions.
+- Identified regions with significant housing gaps (unoccupied units).
 
-- Regional contributions to total housing vary widely (query #11 & #12).
+- Calculated each region’s contribution to national housing supply and occupancy.
 
-#### From Power BI (EV Market):
-- Battery Electric Vehicles (BEVs) hold 72.3% of market share.
-
-- Average EV range is 285 miles, easing range anxiety.
-
-- Top 5 models and regional performance highlight adoption trends.
+- Ranked all regions by ownership rate and housing unit count.
 
 ## Final Conclusion
 This project provides a dual-perspective insight into the sustainability landscape by combining electrification trends and housing data. The SQL-driven backend supports the Power BI visual layer, enabling stakeholders to make informed policy or business decisions around infrastructure, real estate, and clean energy adoption.
